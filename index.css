@@ -1,0 +1,16 @@
+
+*{
+    user-select: none; 
+}
+
+#create_box {
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    position: fixed;
+    right: 30px;
+    top: 25%;
+
+    padding: 10px;
+}
+
